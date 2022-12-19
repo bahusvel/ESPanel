@@ -1,0 +1,9 @@
+server:
+  host: "0.0.0.0"
+  port: 8000
+screens:
+  test:
+    url: http://192.168.1.17:8123?external_auth=1
+    authorization: "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiI5ZmExYjQzYjk1OWM0ZTk1OGM3ZjhlOTcyNDY5ODA3MiIsImlhdCI6MTY3MTQyMjU1MSwiZXhwIjoxOTg2NzgyNTUxfQ.FCx2fboXtHuw7yUalN8uQ5LCNjqAHfqQEPlTuPutlxs"
+    width: 320
+    height: 480
